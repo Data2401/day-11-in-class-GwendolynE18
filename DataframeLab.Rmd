@@ -1,6 +1,6 @@
 ---
 title: "Dataframes - In Class lab"
-author: "Dr. Shoemaker"
+author: "Gwendolyn Espinoza"
 date: "DATA 2401"
 output: html_document
 ---
